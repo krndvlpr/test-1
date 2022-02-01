@@ -9,3 +9,5 @@ You have to make an additional line in between when you need to change lines. Th
 
 ---
 I clicked on the pencil button to make an edit to this README.md file :)
+
+![Baby Cat](./images/cat-baby.jpg)
